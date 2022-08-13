@@ -14,7 +14,7 @@ Program coded in `C++ language` to count and print total number of threads being
     ./main
     ```
     
-### Working Screenshots
+### Working Screenshot
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/Count-Threads-OpenMP/blob/main/extras/working-ss.png" alt = "" width="700px"/>
 </div>
