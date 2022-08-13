@@ -1,4 +1,4 @@
-<h1 align="center">Count Threads in OpenMP Program</h1>
+<h1 align="center">Count Threads in an OpenMP Program</h1>
 
 ### Description
 Program coded in `C++ language` to count and print total number of threads being used in an `OpenMP Code`.
